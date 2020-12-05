@@ -1,3 +1,7 @@
+## 0.10.1
+
+* Fixed '[!] No podspec found for `firebase_ml_vision_raw_bytes` in `.symlinks/plugins/firebase_ml_vision_raw_bytes/ios`'
+
 ## 0.10.0
 
 * **Breaking Change** Update Android firebase-ml-vision dependencies to latest.
